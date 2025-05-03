@@ -53,7 +53,7 @@
 
 ### Bless Network (Formerly Blockless)
 * Raised $8M M31 Capital, $BLS is announced
-* Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
+* Signup the [Dashboard](https://bless.network/dashboard?ref=9DXN1Y)
 * Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
 * Login to your account inside the extension to activate your node
 
