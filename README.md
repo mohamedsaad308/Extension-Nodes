@@ -62,7 +62,7 @@
 ### Stork Oracle Verifier
 * Raised $4M
 * Install [Extension](https://chromewebstore.google.com/detail/stork-verify/knnliglhgkmlblppdejchidfihjnockl)
-* Open Extension, Signup with your email and use invite code: `SFGALXM92N`
+* Open Extension, Signup with your email and use invite code: `ELQK4JAI0I`
 
 #
 
