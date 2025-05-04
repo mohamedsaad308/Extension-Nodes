@@ -69,7 +69,7 @@
 ### Naoris Protocol
 * $11.5M fundraising 
 * Install [Wallet Extension](https://chromewebstore.google.com/detail/naoris-protocol-wallet/dbgibbbeebmbmmhmebogidfbfehejgfo?hl=en-GB&authuser=0)
-* Enter Code: `BGNWD1HYA5q2VED5`
+* Enter Code: `gVMZAyVvorEzc7WM`
 * Visit [Testnet Dashboard](https://naorisprotocol.network/testnet#how-it-works).
 * Click "Start Testnet", Login with your Naoris-Wallet, Install Naoris-Node Extension, Connect X and complete the task.
 * Open Naoris Node extension, Click on "Turn On Protection", Click on "Testnet Dashboard".
