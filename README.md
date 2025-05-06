@@ -79,7 +79,7 @@
 
 ### Minion Labs
 * Raised $2M in pre-seed from JSquare
-* Register [Dashboard](https://app.minionlab.ai/?referralCode=yHqwjUSo)
+* Register [Dashboard](https://ref.minionlab.io/?referralCode=IFobXgPL)
 * Download [Extension](https://www.minionlab.ai/download)
 
 
